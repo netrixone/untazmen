@@ -1,4 +1,4 @@
-module untazmen
+module github.com/netrixone/untazmen
 
 go 1.25.6
 

@@ -6,7 +6,7 @@ import (
 
 	"github.com/akamensky/argparse"
 
-	"untazmen/processor"
+	"github.com/netrixone/untazmen/processor"
 )
 
 var version = "dev"

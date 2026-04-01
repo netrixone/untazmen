@@ -17,7 +17,7 @@ import (
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcapgo"
 
-	"untazmen/tzsp"
+	"github.com/netrixone/untazmen/tzsp"
 )
 
 // Stats holds counters accumulated during a single Process call.

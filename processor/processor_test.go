@@ -10,7 +10,7 @@ import (
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcapgo"
 
-	"untazmen/processor"
+	"github.com/netrixone/untazmen/processor"
 )
 
 const sampleFile = "../_data/linphone_call_iphone_android_G729.pcapng"

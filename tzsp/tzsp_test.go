@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"untazmen/tzsp"
+	"github.com/netrixone/untazmen/tzsp"
 )
 
 // buildPacket constructs a minimal TZSP datagram with the given tagged fields
